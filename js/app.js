@@ -55,7 +55,7 @@ var taskIncomplete = function() {
 }
 
 var bindTaskEvent = function(){
-  
+å
 }
 
 //Set the click handler to the addTask function

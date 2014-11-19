@@ -1,4 +1,4 @@
 treehouse-todolist
 ==================
 
-Practising JavaScript with Treehouse
+Practising JavaScript with Treehouse: Interactive JavaScript
